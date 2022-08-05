@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<DTSConfiguration>
+	<DTSConfigurationHeading>
+		<DTSConfigurationFileInfo GeneratedBy="RNapaPC\RNapa" GeneratedFromPackageName="rv_PaseConsolidado" GeneratedFromPackageID="{981836A4-D707-4424-8CAC-AB2A71A20930}" GeneratedDate="23/08/2018 17:29:55"/>
+	</DTSConfigurationHeading>
+	<Configuration ConfiguredType="Property" Path="\Package.Variables[User::strConnectionStringSRVE].Properties[Name]" ValueType="String">
+		<ConfiguredValue>strConnectionStringSRVE</ConfiguredValue>
+	</Configuration>
+	<Configuration ConfiguredType="Property" Path="\Package.Variables[User::strConnectionStringSRVE].Properties[Value]" ValueType="String">
+		<ConfiguredValue>Data Source=172.30.50.232;User ID=sa;Password=**useco01;Initial Catalog=srve;Provider=SQLNCLI10.1;Auto Translate=False;MARS Connection=True;</ConfiguredValue>
+	</Configuration>
+	<Configuration ConfiguredType="Property" Path="\Package.Properties[Name]" ValueType="String">
+		<ConfiguredValue>rv_PaseConsolidado</ConfiguredValue>
+	</Configuration>
+</DTSConfiguration>

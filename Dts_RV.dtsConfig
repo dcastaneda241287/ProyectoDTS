@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTSConfiguration>
+	<DTSConfigurationHeading>
+		<DTSConfigurationFileInfo GeneratedBy="VIAPARQUERIMAC\jloayza.consultor" GeneratedFromPackageName="Package" GeneratedFromPackageID="{52C73723-999D-4249-A1DF-9653CA76E04A}" GeneratedDate="13/09/2018 16:52:58"/>
+	</DTSConfigurationHeading>
+	<Configuration ConfiguredType="Property" Path="\Package.Variables[User::ConeccionSRVEProduccion].Properties[Name]" ValueType="String">
+		<ConfiguredValue>ConeccionSRVEProduccion</ConfiguredValue>
+	</Configuration>
+	<Configuration ConfiguredType="Property" Path="\Package.Variables[User::ConeccionSRVEProduccion].Properties[Value]" ValueType="String">
+		<ConfiguredValue>Data Source=172.30.50.232;User ID=sa;Password=**useco01;Initial Catalog=srve;Provider=SQLNCLI10.1;Auto Translate=False;</ConfiguredValue>
+	</Configuration>
+</DTSConfiguration>
